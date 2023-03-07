@@ -1,0 +1,8 @@
+POST https://reqres.in/api/users
+Content-Type: application/json
+
+{
+  "name": "morpheus",
+  "job": "leader"
+}
+
